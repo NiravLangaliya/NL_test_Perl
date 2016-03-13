@@ -1,5 +1,5 @@
 @a=(5,2,3,1,4);
-print ("hello\n");
+
 my($t1,$t2);
 
 foreach my $t (@a)
